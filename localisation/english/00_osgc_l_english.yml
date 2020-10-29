@@ -1,0 +1,215 @@
+﻿l_english:
+ # Custom Resolutions
+
+ resolution_category_discovery_archeology:0 "Curiosity without borders"
+ 
+ resolution_discovery_archeology_repeal_6:0 "§RRepeal $resolution_discovery_archeology_6$§!"
+ resolution_discovery_archeology_repeal_6_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_6_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_6$§! resolution."
+ 
+ resolution_discovery_archeology_6:0 "Atlantis Initiative"
+ resolution_discovery_archeology_6_desc:0 "When exploring unknown territories, we will not consider other empire's claims."
+
+ resolution_discovery_archeology_repeal_5:0 "§RRepeal$resolution_discovery_archeology_5$§!"
+ resolution_discovery_archeology_repeal_5_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_5_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_5$§! resolution."
+
+ resolution_discovery_archeology_5:0 "Galactic Archeology Academy"
+ resolution_discovery_archeology_5_desc:0 "Well-trained explorers will achieve significantly better results."
+
+ resolution_discovery_archeology_repeal_4:0 "§RRepeal $resolution_discovery_archeology_4$§!"
+ resolution_discovery_archeology_repeal_4_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_4_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_4$§! resolution."
+ 
+ resolution_discovery_archeology_4:0 "Shared Mapping Database"
+ resolution_discovery_archeology_4_desc:0 "If we share our knowledge of the galaxy, everyone benefits."
+
+ resolution_discovery_archeology_repeal_3:0 "§RRepeal $resolution_discovery_archeology_3$§!"
+ resolution_discovery_archeology_repeal_3_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_3_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_3$§! resolution."
+ 
+ resolution_discovery_archeology_3:0 "Advanced Anomaly Sensors"
+ resolution_discovery_archeology_3_desc:0 "We need to investigate strange phenomenons to learn from them."
+
+ resolution_discovery_archeology_repeal_2:0 "§RRepeal $resolution_discovery_archeology_2$§!"
+ resolution_discovery_archeology_repeal_2_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ 
+ resolution_discovery_archeology_2:0 "Excavation Grants"
+ resolution_discovery_archeology_2_desc:0 "We have to learn from history if we want to survive the dangers of the galaxy."
+
+ resolution_discovery_archeology_repeal_1:0 "§RRepeal $resolution_discovery_archeology_1$§!"
+ resolution_discovery_archeology_repeal_1_desc:0 "Exploring the galaxy is an important undertaking, but the territory of the other realms must be respected and avoided."
+ resolution_discovery_archeology_repeal_1_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_1$§! resolution."
+ 
+ resolution_discovery_archeology_1:0 "Cartography Grants"
+ resolution_discovery_archeology_1_desc:0 "Exploring the galaxy has led to the creation of the galactic community and is fundamental to the prosperity and technological progress of its members."
+
+ resolution_ecology_repeal_6:0 "§RRepeal $resolution_ecology_6$§!"
+ resolution_ecology_repeal_6_desc:0 "$resolution_ecology_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Repeals the §Y$resolution_ecology_6$§! resolution."
+ 
+ resolution_ecology_6:0 "Environmental Ethics"
+ resolution_ecology_6_desc:0 "By protecting the environment, we protect our species and our descendants. Protecting our worlds is a number one priority."
+ 
+ resolution_galacticstudies_repeal_6:0 "§RRepeal $resolution_galacticstudies_6$§!"
+ resolution_galacticstudies_repeal_6_desc:0 "$resolution_galacticstudies_repeal_1_desc$"
+ resolution_galacticstudies_repeal_1_effect_success:0 "Repeals the §Y$resolution_galacticstudies_6$§! resolution."
+ 
+ resolution_galacticstudies_6:0 "Unrestricted Freedom of Research"
+ resolution_galacticstudies_6_desc:0 "When searching for new insights, our scientists must not have to worry about the opinions or rights of the individual."
+ 
+ resolution_industry_repeal_6:0 "§RRepeal $resolution_industry_6$§!"
+ resolution_industry_repeal_6_desc:0 "$resolution_industry_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Repeals the §Y$resolution_industry_6$§! resolution."
+ 
+ resolution_industry_6:0 "State-Approved Overexploitation"
+ resolution_industry_6_desc:0 "If we want to prevail against our competition, we can take no account of anxious lunatics. We have to exploit and process the existing resources with maximum efficiency."
+ 
+ resolution_commerce_repeal_6:0 "§RRepeal $resolution_commerce_6$§!"
+ resolution_commerce_repeal_6_desc:0 "$resolution_commerce_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Repeals the §Y$resolution_commerce_6$§! resolution."
+ 
+ resolution_commerce_6:0 "Neo-Liberal Reorganization"
+ resolution_commerce_6_desc:0 "We must not allow our economy to be held back by protection measures for the weak and inept sectors of the economy."
+ 
+ resolution_rulesofwar_repeal_6:0 "§RRepeal $resolution_rulesofwar_6$§!"
+ resolution_rulesofwar_repeal_6_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Repeals the §Y$resolution_rulesofwar_6$§! resolution."
+ 
+ resolution_rulesofwar_6:0 "Absolute Disarmament"
+ resolution_rulesofwar_6_desc:0 "Drastic measures must be taken to persuade all members of the galactic community to disarm." 
+ 
+ resolution_mutualdefense_repeal_6:0 "§RRepeal $resolution_mutualdefense_6$§!"
+ resolution_mutualdefense_repeal_6_desc:0 "$resolution_mutualdefense_repeal_1_desc$"
+ resolution_mutualdefense_repeal_6_effect_success:0 "Repeals the §Y$resolution_mutualdefense_6$§! resolution."
+ 
+ resolution_mutualdefense_6:0 "Bellicism"
+ resolution_mutualdefense_6_desc:0 "Every day our citizens see themselves exposed to new dangers - almost invincible Leviathans, nations of revolting killer robots and bloodthirsty pirates. You can't negotiate with such enemies!" 
+ 
+ resolution_greatergood_repeal_6:0 "§RRepeal $resolution_greatergood_6$§!"
+ resolution_greatergood_repeal_6_desc:0 "$resolution_greatergood_repeal_1_desc$"
+ resolution_greatergood_repeal_6_effect_success:0 "Repeals the §Y$resolution_greatergood_6$§! resolution."
+ 
+ resolution_greatergood_6:0 "Utopian socialism"
+ resolution_greatergood_6_desc:0 "All citizens of the galactic community are equal and are entitled to the riches that their work generates." 
+ 
+ resolution_category_sovereignty:0 "Promotion of Sovereignty"
+ 
+ resolution_sovereignty_repeal_6:0 "§RRepeal $resolution_sovereignty_6$§!"
+ resolution_sovereignty_repeal_6_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_6_effect_success:0 "Repeals the §Y$resolution_sovereignty_6$§! resolution."
+ 
+ resolution_sovereignty_6:0 "Autarky for All Ordinance"
+ resolution_sovereignty_6_desc:0 "If an empire cannot support itself, it should not exist."
+
+ resolution_sovereignty_repeal_5:0 "§RRepeal$resolution_sovereignty_5$§!"
+ resolution_sovereignty_repeal_5_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_5_effect_success:0 "Repeals the §Y$resolution_sovereignty_5$§! resolution."
+
+ resolution_sovereignty_5:0 "Singularization Act"
+ resolution_sovereignty_5_desc:0 "We should stop supporting those who cannot support themselves."
+
+ resolution_sovereignty_repeal_4:0 "§RRepeal $resolution_sovereignty_4$§!"
+ resolution_sovereignty_repeal_4_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_4_effect_success:0 "Repeals the §Y$resolution_sovereignty_4$§! resolution."
+ 
+ resolution_sovereignty_4:0 "One for One Statute"
+ resolution_sovereignty_4_desc:0 "If we share our knowledge of the galaxy, everyone benefits."
+
+ resolution_sovereignty_repeal_3:0 "§RRepeal $resolution_sovereignty_3$§!"
+ resolution_sovereignty_repeal_3_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ resolution_sovereignty_repeal_3_effect_success:0 "Repeals the §Y$resolution_sovereignty_3$§! resolution."
+ 
+ resolution_sovereignty_3:0 "Individual Mandate"
+ resolution_sovereignty_3_desc:0 "The growth of federalist groups is a threat to the stability of our community."
+
+ resolution_sovereignty_repeal_2:0 "§RRepeal $resolution_sovereignty_2$§!"
+ resolution_sovereignty_repeal_2_desc:0 "$resolution_sovereignty_repeal_1_desc$"
+ 
+ resolution_sovereignty_2:0 "Solitaire Initiative"
+ resolution_sovereignty_2_desc:0 "Nations should be encouraged to utilize their own resources before turning outward for support."
+
+ resolution_sovereignty_repeal_1:0 "§RRepeal $resolution_sovereignty_1$§!"
+ resolution_sovereignty_repeal_1_desc:0 "Internal success is important, but cooperation is neccessary to survive."
+ resolution_sovereignty_repeal_1_effect_success:0 "Repeals the §Y$resolution_sovereignty_1$§! resolution."
+ 
+ resolution_sovereignty_1:0 "Independence Recognition Act"
+ resolution_sovereignty_1_desc:0 "Working to sustain yourself without the assistance of others is a commendable initiative."
+
+ resolution_category_galacticization:0 "Galacticization"
+ 
+ resolution_galacticization_repeal_6:0 "§RRepeal $resolution_galacticization_6$§!"
+ resolution_galacticization_repeal_6_desc:0 "$resolution_galacticization_repeal_1_desc$"
+ resolution_galacticization_repeal_6_effect_success:0 "Repeals the §Y$resolution_galacticization_6$§! resolution."
+ 
+ resolution_galacticization_6:0 "Unification Orders"
+ resolution_galacticization_6_desc:0 "If an empire refuses to contribute to the betterment of sapient life in this galaxy, they shall be punished to the full extent of our power."
+
+ resolution_galacticization_repeal_5:0 "§RRepeal$resolution_galacticization_5$§!"
+ resolution_galacticization_repeal_5_desc:0 "$resolution_galacticization_repeal_1_desc$"
+ resolution_galacticization_repeal_5_effect_success:0 "Repeals the §Y$resolution_galacticization_5$§! resolution."
+
+ resolution_galacticization_5:0 "Paperwork Standardization"
+ resolution_galacticization_5_desc:0 "Using a strange implementation of a cocktail of hivemind organizational techinques, bureaucracy can be brought to new heights."
+
+ resolution_galacticization_repeal_4:0 "§RRepeal $resolution_galacticization_4$§!"
+ resolution_galacticization_repeal_4_desc:0 "$resolution_galacticization_repeal_1_desc$"
+ resolution_galacticization_repeal_4_effect_success:0 "Repeals the §Y$resolution_galacticization_4$§! resolution."
+ 
+ resolution_galacticization_4:0 "Anti-Cooperative Behavior Ordinances"
+ resolution_galacticization_4_desc:0 "Those empires which stay solitary should be encouraged to associate with others."
+
+ resolution_galacticization_repeal_3:0 "§RRepeal $resolution_galacticization_3$§!"
+ resolution_galacticization_repeal_3_desc:0 "$resolution_galacticization_repeal_1_desc$"
+ resolution_galacticization_repeal_3_effect_success:0 "Repeals the §Y$resolution_galacticization_3$§! resolution."
+ 
+ resolution_galacticization_3:0 "Joindering Subsidies"
+ resolution_galacticization_3_desc:0 "Those who work to federate externally should be assisted in their goals."
+
+ resolution_galacticization_repeal_2:0 "§RRepeal $resolution_galacticization_2$§!"
+ resolution_galacticization_repeal_2_desc:0 "$resolution_galacticization_repeal_1_desc$"
+ 
+ resolution_galacticization_2:0 "Organization Act"
+ resolution_galacticization_2_desc:0 "It is imperative that we be able to efficiently transfer goods and information between our nations."
+
+ resolution_galacticization_repeal_1:0 "§RRepeal $resolution_galacticization_1$§!"
+ resolution_galacticization_repeal_1_desc:0 "We do not need our individualism quashed by this community."
+ resolution_galacticization_repeal_1_effect_success:0 "Repeals the §Y$resolution_galacticization_1$§! resolution."
+ 
+ resolution_galacticization_1:0 "International Cooperation Initiative"
+ resolution_galacticization_1_desc:0 "Cooperation has brought us this far, so imagine what we could do with further aide!"
+ # Custom Sanctions
+ 
+ resolution_sanctions_tech_4:0 "Absolute research sanctions"
+ resolution_sanctions_tech_4_desc:0 "Empires that do not comply with galactic law must be prevented from accessing potentially dangerous technologies."
+ 
+ resolution_sanctions_tech_repeal_4:0 "§RRepeal $resolution_sanctions_tech_4$§!"
+ resolution_sanctions_tech_repeal_4_desc:0 "$resolution_sanctions_tech_repeal_1_desc$"
+ resolution_sanctions_tech_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_tech_4$§!"
+ 
+ 
+ resolution_sanctions_economic_4:0 "Absolute economic sanctions"
+ resolution_sanctions_economic_4_desc:0 "We have to use harsh punishments to ensure that only those that abide by galactic law thrive economically."
+ 
+ resolution_sanctions_economic_repeal_4:0 "§RRepeal $resolution_sanctions_economic_4$§!"
+ resolution_sanctions_economic_repeal_4_desc:0 "$resolution_sanctions_economic_repeal_1_desc$"
+ resolution_sanctions_economic_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_economic_4$§! resolution."
+ 
+ 
+ resolution_sanctions_military_4:0 "Absolute military sanctions"
+ resolution_sanctions_military_4_desc:0 "Those who do not abide by galactic law are a threat to peace and must never have a noteworthy fleet."
+ 
+ resolution_sanctions_military_repeal_4:0 "§RRepeal $resolution_sanctions_military_4$§!"
+ resolution_sanctions_military_repeal_4_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_military_4$§! resolution."
+
+ 
+ resolution_sanctions_administrative_4:0 "Absolute administrative sanctions"
+ resolution_sanctions_administrative_4_desc:0 "We do not cooperate with empires that do not comply with galactic law."
+ 
+ resolution_sanctions_administrative_repeal_4:0 "§RRepeal $resolution_sanctions_administrative_4$§!"
+ resolution_sanctions_administrative_repeal_4_desc:0 "$resolution_sanctions_administrative_repeal_1_desc$"
+ resolution_sanctions_administrative_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_administrative_4$§! resolution."
+
+#custom tooltips
+galacticization_in_federation:0 "testtest"

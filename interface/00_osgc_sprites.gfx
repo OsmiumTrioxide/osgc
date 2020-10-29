@@ -1,0 +1,18 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_resolution_discovery_archeology"
+		textureFile = "gfx/interface/icons/resolutions/resolution_discovery_archeology.dds"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "GFX_resolution_sovereignty"
+		textureFile = "gfx/interface/icons/resolutions/resolution_sovereignty.dds"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "GFX_resolution_galacticism"
+		textureFile = "gfx/interface/icons/resolutions/resolution_galacticism.dds"
+		noOfFrames = 1
+	}
+]
