@@ -1,7 +1,7 @@
-﻿l_english:
+l_english:
  # Custom Resolutions
 
- resolution_category_discovery_archeology:0 "Curiosity without borders"
+ resolution_category_discovery_archeology:0 "Curiosity without Borders"
  
  resolution_discovery_archeology_repeal_6:0 "§RRepeal $resolution_discovery_archeology_6$§!"
  resolution_discovery_archeology_repeal_6_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
@@ -180,7 +180,7 @@
  resolution_galacticization_1_desc:0 "Cooperation has brought us this far, so imagine what we could do with further aide!"
  # Custom Sanctions
  
- resolution_sanctions_tech_4:0 "Absolute research sanctions"
+ resolution_sanctions_tech_4:0 "Absolute Research Sanctions"
  resolution_sanctions_tech_4_desc:0 "Empires that do not comply with galactic law must be prevented from accessing potentially dangerous technologies."
  
  resolution_sanctions_tech_repeal_4:0 "§RRepeal $resolution_sanctions_tech_4$§!"
@@ -188,7 +188,7 @@
  resolution_sanctions_tech_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_tech_4$§!"
  
  
- resolution_sanctions_economic_4:0 "Absolute economic sanctions"
+ resolution_sanctions_economic_4:0 "Absolute Economic Sanctions"
  resolution_sanctions_economic_4_desc:0 "We have to use harsh punishments to ensure that only those that abide by galactic law thrive economically."
  
  resolution_sanctions_economic_repeal_4:0 "§RRepeal $resolution_sanctions_economic_4$§!"
@@ -196,7 +196,7 @@
  resolution_sanctions_economic_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_economic_4$§! resolution."
  
  
- resolution_sanctions_military_4:0 "Absolute military sanctions"
+ resolution_sanctions_military_4:0 "Absolute Military Sanctions"
  resolution_sanctions_military_4_desc:0 "Those who do not abide by galactic law are a threat to peace and must never have a noteworthy fleet."
  
  resolution_sanctions_military_repeal_4:0 "§RRepeal $resolution_sanctions_military_4$§!"
@@ -204,7 +204,7 @@
  resolution_sanctions_military_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_military_4$§! resolution."
 
  
- resolution_sanctions_administrative_4:0 "Absolute administrative sanctions"
+ resolution_sanctions_administrative_4:0 "Absolute Administrative Sanctions"
  resolution_sanctions_administrative_4_desc:0 "We do not cooperate with empires that do not comply with galactic law."
  
  resolution_sanctions_administrative_repeal_4:0 "§RRepeal $resolution_sanctions_administrative_4$§!"
