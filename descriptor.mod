@@ -3,5 +3,5 @@ tags={
 	"Diplomacy"
 }
 name="Osmium's Galactic Community"
-supported_version="2.7.2"
+supported_version="2.8.0"
 path="C:/Users/Space/Documents/Paradox Interactive/Stellaris/mod/osgc"
